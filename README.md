@@ -1,2 +1,2 @@
-# knn-nn-naive_bayes-from-scratch
-Implementation of  K-Nearest Neighbors, Neural Networks, and Naive Bayes
+# K-Nearest Neighbors, Neural Networks, and Naive Bayes
+Implementation of  K-Nearest Neighbors, Neural Networks, and Naive Bayes from scratch
